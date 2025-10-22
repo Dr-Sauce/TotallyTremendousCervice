@@ -12,6 +12,11 @@ TTC Alerter for iPhone
 <img width="150" alt="KakaoTalk_20251021_184557000_02" src="https://github.com/user-attachments/assets/65ded20d-1a88-4b31-8540-9341e39e57cc" />
 <img width="150" alt="KakaoTalk_20251021_184557000_03" src="https://github.com/user-attachments/assets/b3ab5ffb-dba6-419f-823a-f387befa53bd" />
 
+## Get
+1. Go to [Releases](https://github.com/Dr-Sauce/TotallyTremendousCervice/releases/latest).
+2. Click iCloud URL.
+3. Press **Add Shortcut**.
+
 ## Set Up Notification
 **Shortcuts** app → **Automation** tab → Time of Day → Adjust time and press **Next**.
 
