@@ -44,5 +44,6 @@ Disable **Ask Before Running** → **Don't Ask** → **Done**
 <img width="150" alt="KakaoTalk_20251021_192245810_16" src="https://github.com/user-attachments/assets/ec4e5f76-93da-4feb-8e43-984a8fd8d1db" />
 
 ## Source
-TTC - [Service Alert API](https://alerts.ttc.ca/api/alerts/site-wide)
-Dr. Sauce - [Shortcut Updater](https://github.com/dr-sauce/shortcutupdater)
+**TTC -** [Service Alert API](https://alerts.ttc.ca/api/alerts/site-wide)
+
+**Dr. Sauce -** [Shortcut Updater](https://github.com/dr-sauce/shortcutupdater)
