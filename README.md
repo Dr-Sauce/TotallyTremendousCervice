@@ -12,7 +12,7 @@ TTC Service Alerter for iPhone
 <img width="150" alt="KakaoTalk_20251021_184557000_02" src="https://github.com/user-attachments/assets/65ded20d-1a88-4b31-8540-9341e39e57cc" />
 <img width="150" alt="KakaoTalk_20251021_184557000_03" src="https://github.com/user-attachments/assets/b3ab5ffb-dba6-419f-823a-f387befa53bd" />
 
-## Get
+## Download
 1. Go to [Releases](https://github.com/Dr-Sauce/TotallyTremendousCervice/releases/latest).
 2. Click iCloud URL.
 3. Press **Add Shortcut**.
@@ -44,6 +44,6 @@ Disable **Ask Before Running** → **Don't Ask** → **Done**
 <img width="150" alt="KakaoTalk_20251021_192245810_16" src="https://github.com/user-attachments/assets/ec4e5f76-93da-4feb-8e43-984a8fd8d1db" />
 
 ## Source
-**TTC -** [Service Alert API](https://alerts.ttc.ca/api/alerts/site-wide)
+**TTC -** [Live Alerts API](https://alerts.ttc.ca/api/alerts/live-alerts)
 
 **Dr. Sauce -** [Shortcut Updater](https://github.com/dr-sauce/shortcutupdater)
