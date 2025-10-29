@@ -1,5 +1,7 @@
 # Totally Tremendous Cervice
-TTC Service Alerter for iPhone
+TTC Service Alerter for iPhone. (TTC subway only)
+
+Requires iCloud Drive.
 
 <img width="100" height="100" alt="${f}" src="https://github.com/user-attachments/assets/9811ba42-f183-452a-9367-87e6ae8a7fa6" />
 
