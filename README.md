@@ -27,16 +27,7 @@ Launch **Totally Tremendous Cervice** → **Install** → **⨁ Add Action**
 
 **Shortcuts** app → **Automation** tab → Select **App** → **App - `Choose`** → Select an app (or multiple) that you frequently use and press **Done** → **Next**
 
-<img width="630" height="1368" alt="IMG_0027" src="https://github.com/user-attachments/assets/9b79b222-59f7-4f37-83f5-c6aa9951b294" />
-<img width="630" height="1368" alt="IMG_0025" src="https://github.com/user-attachments/assets/d733e29e-17bb-4390-b35a-5b9bcd673669" />
-<img width="630" height="1368" alt="IMG_0024" src="https://github.com/user-attachments/assets/8fc7e3ea-0621-4c6f-a5af-e8e010b4fe2f" />
-<img width="630" height="1368" alt="IMG_0023" src="https://github.com/user-attachments/assets/bf694425-6584-45f8-8639-c20162e37883" />
-<img width="630" height="1368" alt="IMG_0022" src="https://github.com/user-attachments/assets/b74de217-8a29-487c-aaa6-96915bd2928a" />
-<img width="630" height="1368" alt="IMG_0021" src="https://github.com/user-attachments/assets/d3d248be-5d59-4eac-bb1c-5fa7b49d7da0" />
-<img width="630" height="1368" alt="IMG_0020" src="https://github.com/user-attachments/assets/baf5c095-0385-46e1-b860-ef7f0e5d6fd9" />
-<img width="630" height="1368" alt="IMG_0019" src="https://github.com/user-attachments/assets/a5c1ee38-837e-4284-a1a3-9f0dbeb4af68" />
-<img width="630" height="1368" alt="IMG_0018" src="https://github.com/user-attachments/assets/98aa64a1-5103-4c73-822a-a90141d2048e" />
-<img width="630" height="1368" alt="IMG_0017" src="https://github.com/user-attachments/assets/510a0bcb-36cb-4f62-8faa-c51488d995f3" />
+
 
 
 
