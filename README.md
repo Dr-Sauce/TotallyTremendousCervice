@@ -20,7 +20,7 @@ Requires iCloud Drive.
 3. Press **Add Shortcut**.
 
 ## Set Up Notifications
-Launch **Totally Tremendous Cervice** → **Install** → **⨁ Add Shortcut** 
+Launch **Shortcuts** app → Run **Totally Tremendous Cervice** → Press **Install** → **⨁ Add Shortcut** 
 
 <img width="120" alt="IMG_0013" src="https://github.com/user-attachments/assets/88d2de38-1ce2-43f9-8dcf-5828fe8122d8" />
 <img width="120" alt="IMG_0014" src="https://github.com/user-attachments/assets/6857efaf-99cc-4437-b5a3-4f8991dccdb7" />
@@ -37,7 +37,7 @@ Select **Totally Tremendous Cervice (Plug-in)**
 <img width="120" alt="IMG_0023" src="https://github.com/user-attachments/assets/bf694425-6584-45f8-8639-c20162e37883" />
 <img width="120" alt="IMG_0024" src="https://github.com/user-attachments/assets/8fc7e3ea-0621-4c6f-a5af-e8e010b4fe2f" />
 
-Now check whether notifications have been successfully enabled by opening the app that triggers Totally Tremendous Cervice.
+Now check whether notifications have been successfully enabled by launching the app that triggers Totally Tremendous Cervice.
 
 <img width="120" alt="IMG_0027" src="https://github.com/user-attachments/assets/9b79b222-59f7-4f37-83f5-c6aa9951b294" />
 
