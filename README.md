@@ -36,23 +36,10 @@ Select **Totally Tremendous Cervice (Plug-in)**
 
 <img width="120" alt="IMG_0023" src="https://github.com/user-attachments/assets/bf694425-6584-45f8-8639-c20162e37883" />
 <img width="120" alt="IMG_0024" src="https://github.com/user-attachments/assets/8fc7e3ea-0621-4c6f-a5af-e8e010b4fe2f" />
-<img width="120" alt="IMG_0025" src="https://github.com/user-attachments/assets/d733e29e-17bb-4390-b35a-5b9bcd673669" />
+
+Now check whether notifications have been successfully enabled by opening the app that triggers Totally Tremendous Cervice.
+
 <img width="120" alt="IMG_0027" src="https://github.com/user-attachments/assets/9b79b222-59f7-4f37-83f5-c6aa9951b294" />
-
-
-
-
-
-
-
-Press **>** → Press **Input - `Choose Variable`** → **Current Date** → Press ▶ (in the bottom right corner) → Press **Allow** x2 (or more. Make sure to accept them all.) → Press **Next**.
-
-
-
-Disable **Ask Before Running** → **Don't Ask** → **Done**
-
-
-
 
 ## Source
 **TTC -** [Live Alerts API](https://alerts.ttc.ca/api/alerts/live-alerts)
