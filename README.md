@@ -7,12 +7,12 @@ Requires iCloud Drive.
 
 ## Features
 - Check out-of-service areas, with line, date, time and other details.
-<img width="150" alt="KakaoTalk_20251021_184557000" src="https://github.com/user-attachments/assets/671d778d-f58d-45a3-9cb8-a83987bfb007" />
-<img width="150" alt="KakaoTalk_20251021_184557000_01" src="https://github.com/user-attachments/assets/f3941777-bd07-4dfe-9ba5-0713b884ac16" />
+<img width="120" alt="IMG_0035" src="https://github.com/user-attachments/assets/fdae02d8-b803-4dc9-9aa9-a8a71f785dd7" />
+<img width="120" alt="IMG_0036" src="https://github.com/user-attachments/assets/955cd543-e306-4f24-92f5-38228e2499e2" />
 
 - Don't want to launch the shortcut every time? Set up notifications to receive the latest information in real time.
-<img width="150" alt="KakaoTalk_20251021_184557000_02" src="https://github.com/user-attachments/assets/65ded20d-1a88-4b31-8540-9341e39e57cc" />
-<img width="150" alt="KakaoTalk_20251021_184557000_03" src="https://github.com/user-attachments/assets/b3ab5ffb-dba6-419f-823a-f387befa53bd" />
+<img width="120" alt="IMG_0032" src="https://github.com/user-attachments/assets/f4a1b86b-c75b-4a14-a715-0e49e2945178" />
+<img width="120" alt="IMG_0033" src="https://github.com/user-attachments/assets/45bf7640-37d9-4be4-bc3a-95d3736b327a" />
 
 ## Download
 1. Go to [Releases](https://github.com/Dr-Sauce/TotallyTremendousCervice/releases/latest).
