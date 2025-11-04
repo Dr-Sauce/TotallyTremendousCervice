@@ -27,29 +27,30 @@ Launch **Totally Tremendous Cervice** → **Install** → **⨁ Add Action**
 
 **Shortcuts** app → **Automation** tab → Select **App** → **App - `Choose`** → Select an app (or multiple) that you frequently use and press **Done** → **Next**
 
-<img width="150" alt="KakaoTalk_20251021_192245810" src="https://github.com/user-attachments/assets/423cce86-20a7-483e-9afc-0349d6f81543" />
-<img width="150" alt="KakaoTalk_20251028_170205402" src="https://github.com/user-attachments/assets/991f8b0a-1bbd-482b-a422-d0e70afde795" />
-<img width="150" alt="KakaoTalk_20251028_170205402_01" src="https://github.com/user-attachments/assets/2d65b428-1610-47e7-a7ae-2e089e24c24b" />
-<img width="150" alt="KakaoTalk_20251028_170205402_03" src="https://github.com/user-attachments/assets/2b8cc93c-1d54-440b-85ff-84be0dbacfdf" />
+<img width="630" height="1368" alt="IMG_0027" src="https://github.com/user-attachments/assets/9b79b222-59f7-4f37-83f5-c6aa9951b294" />
+<img width="630" height="1368" alt="IMG_0025" src="https://github.com/user-attachments/assets/d733e29e-17bb-4390-b35a-5b9bcd673669" />
+<img width="630" height="1368" alt="IMG_0024" src="https://github.com/user-attachments/assets/8fc7e3ea-0621-4c6f-a5af-e8e010b4fe2f" />
+<img width="630" height="1368" alt="IMG_0023" src="https://github.com/user-attachments/assets/bf694425-6584-45f8-8639-c20162e37883" />
+<img width="630" height="1368" alt="IMG_0022" src="https://github.com/user-attachments/assets/b74de217-8a29-487c-aaa6-96915bd2928a" />
+<img width="630" height="1368" alt="IMG_0021" src="https://github.com/user-attachments/assets/d3d248be-5d59-4eac-bb1c-5fa7b49d7da0" />
+<img width="630" height="1368" alt="IMG_0020" src="https://github.com/user-attachments/assets/baf5c095-0385-46e1-b860-ef7f0e5d6fd9" />
+<img width="630" height="1368" alt="IMG_0019" src="https://github.com/user-attachments/assets/a5c1ee38-837e-4284-a1a3-9f0dbeb4af68" />
+<img width="630" height="1368" alt="IMG_0018" src="https://github.com/user-attachments/assets/98aa64a1-5103-4c73-822a-a90141d2048e" />
+<img width="630" height="1368" alt="IMG_0017" src="https://github.com/user-attachments/assets/510a0bcb-36cb-4f62-8faa-c51488d995f3" />
+
+
 
 Press **⨁ Add Action** → Search for `Run Shortcut` and click it → Press **Run `Shortcut`** → Scroll and select **Totally Tremendous Cervice**.
 
-<img width="150" alt="KakaoTalk_20251021_192245810_03" src="https://github.com/user-attachments/assets/c2ea2469-57c0-40b5-b8f0-135e01055211" />
-<img width="150" alt="KakaoTalk_20251021_192245810_04" src="https://github.com/user-attachments/assets/4ad6ff61-5039-4333-9b85-584579d0fbdd" />
-<img width="150" alt="KakaoTalk_20251021_192245810_05" src="https://github.com/user-attachments/assets/59883785-2939-4b80-b792-3c09ce9e90f8" />
-<img width="150" alt="KakaoTalk_20251021_192245810_06" src="https://github.com/user-attachments/assets/b141b6c8-f978-4561-b930-4f7c3c2ca28e" />
+
 
 Press **>** → Press **Input - `Choose Variable`** → **Current Date** → Press ▶ (in the bottom right corner) → Press **Allow** x2 (or more. Make sure to accept them all.) → Press **Next**.
 
-<img width="150" alt="KakaoTalk_20251021_192245810_10" src="https://github.com/user-attachments/assets/11050784-7111-4774-9353-952a85d9892a" />
-<img width="150" alt="KakaoTalk_20251021_192245810_11" src="https://github.com/user-attachments/assets/d87ebfdb-c8ea-4f63-9efd-77bdff64bb64" />
-<img width="150" alt="KakaoTalk_20251021_192245810_12" src="https://github.com/user-attachments/assets/f3ccf54b-9794-4b54-92d0-eeb68f11c06a" />
+
 
 Disable **Ask Before Running** → **Don't Ask** → **Done**
 
-<img width="150" alt="KakaoTalk_20251028_170205402_05" src="https://github.com/user-attachments/assets/8c2c18a0-d403-4d0c-a27a-f1dca092150c" />
-<img width="150" alt="KakaoTalk_20251028_170205402_06" src="https://github.com/user-attachments/assets/7d06b54a-7a78-4319-a130-adbb7bc1fd96" />
-<img width="150" alt="KakaoTalk_20251028_170205402_08" src="https://github.com/user-attachments/assets/e2f0bee1-1cdd-45c7-bda7-26224c1f484c" />
+
 
 
 ## Source
