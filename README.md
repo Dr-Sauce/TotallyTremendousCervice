@@ -21,8 +21,9 @@ Requires iCloud Drive.
 
 ## Set Up Notifications
 Launch **Totally Tremendous Cervice** → **Install** → **⨁ Add Action** 
-<img width="120" alt="IMG_0014" src="https://github.com/user-attachments/assets/6857efaf-99cc-4437-b5a3-4f8991dccdb7" />
+
 <img width="120" alt="IMG_0013" src="https://github.com/user-attachments/assets/88d2de38-1ce2-43f9-8dcf-5828fe8122d8" />
+<img width="120" alt="IMG_0014" src="https://github.com/user-attachments/assets/6857efaf-99cc-4437-b5a3-4f8991dccdb7" />
 
 **Shortcuts** app → **Automation** tab → Select **App** → **App - `Choose`** → Select an app (or multiple) that you frequently use and press **Done** → **Next**
 
