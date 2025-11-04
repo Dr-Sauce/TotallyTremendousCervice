@@ -19,7 +19,7 @@ Requires iCloud Drive.
 2. Click iCloud URL.
 3. Press **Add Shortcut**.
 
-## Set Up Notifications
+## Setup
 Launch **Shortcuts** app → Run **Totally Tremendous Cervice** → Press **Install** → **⨁ Add Shortcut** 
 
 <img width="120" alt="IMG_0013" src="https://github.com/user-attachments/assets/88d2de38-1ce2-43f9-8dcf-5828fe8122d8" />
