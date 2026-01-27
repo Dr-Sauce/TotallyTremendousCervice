@@ -6,7 +6,7 @@ Requires iCloud Drive.
 <img width="100" height="100" alt="${f}" src="https://github.com/user-attachments/assets/9811ba42-f183-452a-9367-87e6ae8a7fa6" />
 
 ## Features
-- Check out-of-service areas, with line, date/time and other details.
+- Check out-of-service areas with details.
 <img width="120" alt="IMG_0035" src="https://github.com/user-attachments/assets/fdae02d8-b803-4dc9-9aa9-a8a71f785dd7" />
 <img width="120" alt="IMG_0036" src="https://github.com/user-attachments/assets/955cd543-e306-4f24-92f5-38228e2499e2" />
 
