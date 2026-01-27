@@ -1,5 +1,5 @@
 # Totally Tremendous Cervice
-TTC Service Alerter for iOS, macOS. (Only supports TTC subway)
+TTC Service Alerter for iOS, macOS. (Only supports subway)
 
 Requires iCloud Drive.
 
